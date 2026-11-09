@@ -6,6 +6,7 @@
 
 ## 主要功能
 
+- 「静谧唱片室」界面：深墨、鼠尾草绿与暖杏，精致的发现页、音乐库与完整播放器。
 - 发现音乐：网易榜单、常听歌手推荐与 Audius 独立音乐。
 - 默认聚合网易、酷狗、QQ、咪咕、酷我与 Audius 搜索；核对同一录音后合并重复项，失败时自动尝试其他来源，也可手动指定渠道。
 - 搜索结果支持综合推荐、相关度与近期榜单热度；图标平滑展开为输入框，支持分页与搜索历史。热度参考网易飙升榜和热歌榜，标明更新日期。
@@ -18,18 +19,19 @@
 
 ## 界面预览
 
-手机截图使用 1.6 界面和合成演示资料，均为 Web 视口截图；Android 沿用相同界面。下方桌面发现图保留自早期版本。
+截图使用 1.7「静谧唱片室」的实际 Web 界面与合成演示资料；Android 沿用相同页面。这些是演示截图，封面使用 [Unsplash 许可照片](https://unsplash.com/license)，不代表真实歌曲或音源结果。
 
 <table>
-  <tr><th>聚合搜索</th><th>我的音乐</th><th>播放器</th></tr>
+  <tr><th>发现音乐</th><th>搜索</th><th>我的音乐</th><th>播放器</th></tr>
   <tr>
-    <td><img src="images/search.png" alt="余音：同曲聚合与清楚的渠道选择" width="260"></td>
-    <td><img src="images/library.png" alt="余音：收藏、最近播放与个人歌单" width="260"></td>
-    <td><img src="images/player.png" alt="余音：封面、歌词、播放模式与队列入口" width="260"></td>
+    <td><img src="images/home.png" alt="余音：静谧唱片室发现页与音乐榜单" width="220"></td>
+    <td><img src="images/search.png" alt="余音：搜索音乐与清楚的渠道选择" width="220"></td>
+    <td><img src="images/library.png" alt="余音：收藏、最近播放与个人歌单" width="220"></td>
+    <td><img src="images/player.png" alt="余音：封面、歌词、播放模式与队列入口" width="220"></td>
   </tr>
 </table>
 
-<img src="images/discovery-desktop.jpg" alt="余音：桌面发现页的榜单与当前播放" width="960">
+<img src="images/discovery-desktop.png" alt="余音：桌面发现页的榜单与当前播放" width="960">
 
 ## 安装与更新
 
